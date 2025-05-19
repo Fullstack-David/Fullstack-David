@@ -30,7 +30,7 @@ A fullstack REST API built with Express, TypeScript, and PostgreSQL. Includes au
 ### 🔹 [PizzaApp](https://github.com/Fullstack-David/pizza-app)  
 A Vue.js-based pizza ordering web app. Features dynamic menu, cart functionality, and responsive design.
 
-### 🔹 [Rick and Morty Explorer](https://github.com/Fullstack-David/rick-morty-explorer)  
+### 🔹 [Todo App - Team work](https://github.com/OscarDonald/Todo-App-Grupprojekt)  
 Search and browse characters from the Rick and Morty API. Built with Vue, focusing on API integration and component structure.
 
 ---
