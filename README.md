@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm David Heidari!
+
+I'm an IT student with a passion for fullstack development. I enjoy building user-friendly, smart solutions using both frontend and backend technologies.
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 [CRUDsql](https://github.com/Fullstack-David/crudsql)  
+A fullstack REST API built with Express, TypeScript, and PostgreSQL. Includes authentication, Prisma ORM, and full CRUD functionality.
+
+### 🔹 [PizzaApp](https://github.com/Fullstack-David/pizza-app)  
+A Vue.js-based pizza ordering web app. Features dynamic menu, cart functionality, and responsive design.
+
+### 🔹 [Rick and Morty Explorer](https://github.com/Fullstack-David/rick-morty-explorer)  
+Search and browse characters from the Rick and Morty API. Built with Vue, focusing on API integration and component structure.
+
+---
+
+## 🧠 Tech Stack
+- **Frontend:** Vue.js,React.js, Next.js, JavaScript/TypeScript, HTML, CSS  
+- **Backend:** Node.js, Express, PostgreSQL  
+- **Tools & DevOps:** Git, GitHub, Docker, MongoDB, pgAdmin
+
+---
+
+📫 Reach me at: davidheidari2@gmail.com
+
