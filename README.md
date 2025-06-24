@@ -9,6 +9,8 @@ I'm an IT student with a passion for fullstack development JavaScript. I enjoy b
 ### 🔹 [Kanban App - Team work](https://github.com/OscarDonald/Todo-App-Grupprojekt)  
 A fullstack admin dashboard built with Vue.js, Express, TypeScript, and PostgreSQL. Features authentication, protected routes, and dynamic chart components using REST API and Prisma.
 
+### 🔹 [Vue.js project - Team work](https://github.com/Fullstack-David/Fullstack-David/vue.project)  
+A fullstack admin dashboard built with Vue.js, Express, TypeScript, and PostgreSQL. Features authentication, protected routes, and dynamic chart components using REST API and Prisma.
 ---
 
 ## 🧠 Tech Stack
