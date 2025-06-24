@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Heidari!
 
-I'm an IT student with a passion for fullstack development. I enjoy building user-friendly, smart solutions using both frontend and backend technologies.
+I'm an IT student with a passion for fullstack development JavaScript. I enjoy building user-friendly, smart solutions using both frontend and backend technologies.
 
 ---
 
