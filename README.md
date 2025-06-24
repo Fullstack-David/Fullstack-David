@@ -10,7 +10,7 @@ I'm an IT student with a passion for fullstack development JavaScript. I enjoy b
 A fullstack admin dashboard built with Vue.js, Express, TypeScript, and PostgreSQL. Features authentication, protected routes, and dynamic chart components using REST API and Prisma.
 
 ### 🔹 [Vue.js project](https://github.com/Fullstack-David/vue-project)  
-A fullstack admin dashboard built with Vue.js, Express, TypeScript, and PostgreSQL. Features authentication, protected routes, and dynamic chart components using REST API and Prisma.
+A vue.js project included routing, tailwind.css and responsive.
 ---
 
 ## 🧠 Tech Stack
